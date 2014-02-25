@@ -1,0 +1,14 @@
+#notification {
+  width: 100%;
+  font-size: 18px;
+  text-align: center;
+  padding: 15px 0;
+
+  &.success {
+    background: #1abc9c;
+  }
+
+  &.error {
+    background: #e74c3c;
+  }
+}
